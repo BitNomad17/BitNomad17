@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on **Top Secret project**
 
-- 👯 "I’m Batman, looking for Robin—let’s squash bugs and push to production like heroes. 🦇💻" **let’s squash bugs and push to production like heroes. 🦇💻"**
+- 👯 - 📄  "I’m Batman, looking for Robin—let’s squash bugs and push to production like heroes. 🦇💻" **let’s squash bugs and push to production like heroes. 🦇💻"**
 
 - 📝 My biggest flex: I can break things faster than I can fix them. [And let’s not forget, I’ve mastered the art of naming variables like thingy and final_final_v2.](And let’s not forget, I’ve mastered the art of naming variables like thingy and final_final_v2.)
 
 - 💬 Computers don’t make mistakes—I do. “Why isn’t this working?” and “How did this even work?” are my daily mantras. **I’ve spent more time debugging than sleeping, yet I call this fun. 😎💻 I've Googled "how to fix this error" more times than I've called my mom. I’ve written code so efficient, even future me struggled to understand it. 90% of programming is staring at the screen, waiting for inspiration to strike. The other 10%? Googling, "How do I fix this bug?"**
 
 - 📫 How to reach me **ankit.i253196@gmail.com**
-
-- 📄 Know about my experiences [Computers don’t make mistakes—I do. “Why isn’t this working?” and “How did this even work?” are my daily mantras. I’ve spent more time debugging than sleeping, yet I call this fun. 😎💻](Computers don’t make mistakes—I do. “Why isn’t this working?” and “How did this even work?” are my daily mantras. I’ve spent more time debugging than sleeping, yet I call this fun. 😎💻)
 
 - ⚡ Fun fact **Debugging is like being a detective in a crime movie where you are also the murderer.**
 
